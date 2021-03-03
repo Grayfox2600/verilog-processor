@@ -1,0 +1,11 @@
+// memory data file (do not edit the following line - required for mem load use)
+// instance=/testbench_processor/test/rb/rb/mem
+// format=bin addressradix=h dataradix=b version=1.0 wordsperline=1 noaddress
+0000000011000000
+0000000000001100
+0000000000110000
+0000001001000000
+0000000000100100
+0000000000111100
+0000000000111100
+0000000011000000
