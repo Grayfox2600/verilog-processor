@@ -17,6 +17,8 @@ Processor:
 If the FSM module is the heartbeat, the processor module acts as the brain by instantiating and initializing most other major modules.
 The processor itself is instantiated by the testbench_processor.v file. 
 
+All testbench files except for testbench_processor.v are designed to test individual modules and submodules.
+
 This is the final working version as presented and should run in it's current state.
 
 This project was developed using Intel's ModelSim FPGA simulation software.
